@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{e1ac7401-3267-48a7-a4d4-34db01e501f3}">
+		<property name="assetPath">
+			<value>TheTruthRemix part -003.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.2857142857142856</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{db87bf39-5a0a-47ce-963a-ce561ba67f84}</destination>
+		</relationship>
+	</object>
+</objects>

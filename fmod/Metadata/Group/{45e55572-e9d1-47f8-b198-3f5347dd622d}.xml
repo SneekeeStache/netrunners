@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="MixerGroup" id="{45e55572-e9d1-47f8-b198-3f5347dd622d}">
+		<property name="color">
+			<value>Red</value>
+		</property>
+		<property name="volume">
+			<value>-8</value>
+		</property>
+		<property name="name">
+			<value>Music</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{9fdc9f74-ec39-48a4-821f-a72d76d65528}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{8c826a2e-1614-4037-bb60-be2a37bc9c38}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{d9f7a9b9-3be2-41f8-87a2-8d5880e06987}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{9fdc9f74-ec39-48a4-821f-a72d76d65528}">
+		<relationship name="effects">
+			<destination>{4af764d2-dd2c-4a31-b431-4e579ce9c29a}</destination>
+			<destination>{90eb0cea-082b-4a0b-a7e7-abe269e37c07}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{8c826a2e-1614-4037-bb60-be2a37bc9c38}" />
+	<object class="MixerBusFader" id="{4af764d2-dd2c-4a31-b431-4e579ce9c29a}" />
+	<object class="MultibandEqEffect" id="{90eb0cea-082b-4a0b-a7e7-abe269e37c07}">
+		<property name="frequencyA">
+			<value>21999.9902</value>
+		</property>
+		<property name="qualityA">
+			<value>2.72413778</value>
+		</property>
+	</object>
+</objects>

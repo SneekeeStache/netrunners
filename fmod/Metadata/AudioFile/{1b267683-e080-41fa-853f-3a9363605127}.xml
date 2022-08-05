@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{1b267683-e080-41fa-853f-3a9363605127}">
+		<property name="assetPath">
+			<value>dropBass-001.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.6936961451247163</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{db87bf39-5a0a-47ce-963a-ce561ba67f84}</destination>
+		</relationship>
+	</object>
+</objects>

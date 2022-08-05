@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{a0f94777-3ab2-41c4-ab16-a44a47d7c731}">
+		<property name="name">
+			<value>playerIsAlive</value>
+		</property>
+		<relationship name="folder">
+			<destination>{d518c719-8a14-4c91-a5f9-03721610789c}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{16596f78-7a8e-45dc-a0c2-c4a7ba5a0b31}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{16596f78-7a8e-45dc-a0c2-c4a7ba5a0b31}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>True</value>
+			<value>False</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

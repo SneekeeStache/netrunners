@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{0a3c1fc9-9893-4e0f-b171-28034ee82649}">
+		<property name="assetPath">
+			<value>man_effort-001.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.8398639455782313</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{db87bf39-5a0a-47ce-963a-ce561ba67f84}</destination>
+		</relationship>
+	</object>
+</objects>

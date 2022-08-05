@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{ecf522cf-de68-4850-a0b4-f3f60989c4a7}">
+		<property name="assetPath">
+			<value>agonize remix part-001.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>14.736848072562358</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{db87bf39-5a0a-47ce-963a-ce561ba67f84}</destination>
+		</relationship>
+	</object>
+</objects>
